@@ -12,7 +12,7 @@ conda install nb_conda "This needs to be done outside your virtual env
 
 conda activate nameofyourenv 
 conda install ipykernel
-ipython kernel install --user --name=nameyouwanttodisplay
+ipython kernel install --user --name=enamKeras
 
 #Here you are in your virtual environment
 
